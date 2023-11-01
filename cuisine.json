@@ -1,0 +1,149 @@
+[
+    {"mainType": "Central African Cuisine",
+    "subType": ["Angolan", "Cameroonian", "Chadian", "Congolese", 
+    "Centrafrican", "Equatorial Guinea", "Gabonese", "Santomean"]},
+
+    {"mainType": "East African cuisine",
+    "subType":  ["Burundian", "Djiboutian", "Eritrean", "Ethiopian", 
+    "Kenyan", "Maasai", "Rwandan", "Somali", "South Sudanese", 
+    "Tanzanian", "Tanzanian: Zanzibari", "Ugandan"]},
+
+    {"mainType": "North African cuisine",
+    "subType":  ["Moroccan", "Berber", "Egyptian", "Libyan", "Mauritanian", 
+    "Algerian", "Sudanese", "Tunisian", "Western Saharan"]},
+
+    {"mainType": "Southern African cuisine",
+    "subType":  ["Botswana", "Eswatini", "Lesotho", "Malagasy", "Malawian", 
+    "Mauritian"]},
+
+    {"mainType": "West African cuisine",
+    "subType":  ["Benin", "Burkinabé", "Cape Verdean", "Gambian", "Ghanaian", 
+    "Guinean", "Guinea-Bissauan", "Ivorian", "Liberian", "Malian", "Niger", 
+    "Nigerian", "Senegalese", "Sierra Leone", "Togolese"]},
+
+    {"mainType": "Old American Cuisine",
+    "subType": ["Latin American", "Native American", "Inuit Native American", "Tlingit Native American"]},
+    
+    {"mainType": "North American cuisine",
+    "subType": ["Canadian", "Maritimes", "Quebec", "Toronto", "Mexican",
+    "Chiapas", "Oaxaca", "Veracruz"]},
+
+    {"mainType": "American cuisine",
+    "subType": ["Chicago", "North Dakota", "Omaha", "St. Louis", "Wisconsin", "Minnesota", "New England", 
+    "Baltimore", "New Jersey", "New York City", "Pennsylvania Dutch", "Philadelphia", "Pittsburgh", 
+    "Atlanta", "Floribbean", "Kentucky", "Cajun", "New Orleans", "Lowcountry", "Soul Food", "New Mexican", 
+    "Texas", "Tex-Mex", "California", "Hawaiian", "Pacific Northwest", "Rocky Mountain", 
+    "Chinese-American", "Filipino-American", "Greek-American", "Italian-American", "Mexican-American", 
+    "New American"]},
+
+    {"mainType": "Central American cuisine",
+    "subType": ["Belizean", "Costa Rican", "Salvadoran", "Guatemalan"]},
+
+    {"mainType": "South American cuisine",
+    "subType": ["Argentinian", "Bolivian", "Brazilian", "Chilean", "Colombian", "Colombian: Muisca", 
+    "Ecuadorian", "French Guianan", "Paraguayan", "Paraguayan: Asunción", "Peruvian", "Peruvian: Inca", 
+    "Peruvian-Chinese", "Surinamese", "Uruguayan", "Uruguayan: Montevideo", "Venezuelan"]},
+
+    {"mainType": "Caribbean cuisine",
+    "subType": ["Anguillan", "Antigua and Barbuda", "Bahamian", "Barbadian", "Bermudian", 
+    "British Virgin Islands", "Cayman Islands", "Cuban", "Curaçao", "Dominica", 
+    "Dominican Republic", "Grenadian", "Guyanese", "Haitian", "Jamaican", "Martinican", "Montserrat", 
+    "Puerto Rican", "St. Kitts and Nevis", "Saint Lucian", "Trinidad and Tobago", "Turks and Caicos", 
+    "US Virgin Islands"]},
+
+    {"mainType": "Central Asian cuisine",
+    "subType": ["Bukharan Jewish", "Kazakh", "Kyrgyz"]},
+
+    {"mainType": "East Asian cuisine",
+    "subType": ["Hong Kong", "Japanese", "Ainu", "Nagoya", "Okinawan", "North Korean", 
+    "South Korean", "Macanese", "Mongolian", "Taiwanese"]},
+
+    {"mainType": "Chinese cuisine",
+    "subType": ["Anhui", "Beijing", "Beijing: Chinese aristocrat", "Chinese imperial", "Liaoning", 
+    "Cantonese", "Chaoshan (Teochew)", "Chiuchow", "Fujian", "Guangxi", "Guizhou", "Hainan", "Hakka", 
+    "Henan", "Hubei", "Hunan", "Jiangsu", "Huaiyang", "Jiangxi", "Liaoning", "Manchu", 
+    "Northeastern Chinese", "Putian (Henghwa)", "Shaanxi", "Shandong", "Shanghai", "Haipai", "Shanxi", 
+    "Sichuan", "Tianjin", "Tibetan", "Xinjiang (Uyghur)", "Yunnan", "Zhejiang", "Chinese Buddhist", 
+    "Chinese Islamic", "Taoist", "American-Chinese", "Australian-Chinese", "Burmese-Chinese", 
+    "Canadian-Chinese", "Caribbean-Chinese", "Filipino-Chinese", "Indian-Chinese", "Indonesian-Chinese", 
+    "Japanese-Chinese", "Latin-American-Chinese", "Peruvian-Chinese", "Puerto-Rican-Chinese", 
+    "Korean-Chinese", "Malaysian-Chinese", "Pakistani-Chinese", "Peranakan", "Singaporean-Chinese"]},
+
+    {"mainType": "South Asian cuisine",
+    "subType": ["Afghan", "Bangladeshi", "Bengali", "Bhutanese", "Hazaragi"]},
+
+    {"mainType": "Indian cuisine",
+    "subType": ["Goan", "Goan: Catholic", "Gujarati", "Maharashtrian", "Malvani", "Parsi", "Rajasthani", 
+    "Sindhi", "North Indian", "Bihari", "Bhojpuri", "Kashmiri", "Mughlai", "Punjabi", "Rajasthani", 
+    "Uttar Pradesh", "Awadhi", "South Indian", "Karnataka", "Dakshina Karnataka", "Kodava", "Mangalurean", 
+    "Mangalurean: Catholic", "Navyath Muslim", "Udupi", "Uttara Karnataka", "Kerala", "Tamil", "Chettinad", 
+    "Telugu", "Andhra", "Hyderabadi", "North East Indian", "Assamese", "Naga", "Sikkimese", "Tripuri", 
+    "East Indian", "Bengali", "Jharkhandi", "Odia", "Oriya", "Anglo-Indian", "Indian-Chinese", 
+    "Indian fast food", "Jain"]},
+
+    {"mainType": "Pakistani cuisine",
+    "subType": ["Balochi", "Kashmiri", "Mughlai", "Muhajir", "Punjabi", "Lahori", "Saraiki", "Pashtun", 
+    "Sindhi"]},
+
+    {"mainType": "Southeast Asian cuisine",
+    "subType": ["Bruneian", "Burmese", "Cambodian", "Christmas Island", "East Timor", "Filipino", 
+    "Kapampangan", "Lao", "Hmong", "Malaysian", "Arab", "Eurasian", "Malay", "Malaysian-Chinese", 
+    "Malaysian-Indian", "Peranakan", "Sabahan", "Sarawakian", "Singaporean", "Thai", "Vietnamese"]},
+
+    {"mainType": "Indonesian cuisine",
+    "subType": ["Acehnese", "Balinese", "Banjar", "Batak", "Indo", "Indonesian-Arab", "Indonesian-Chinese",
+    "Indonesian-Indian", "Javanese", "Betawi", "Madurese", "Sundanese", "Makassar", "Malay", "Manado", 
+    "Padang", "Palembang", "Peranakan"]},
+
+    {"mainType": "West Asian cuisine",
+    "subType": ["Easter Ariabian", "Bahraini", "Emirati", "Kuwaiti", "Omani", "Qatari", "Saudi Arabian", 
+    "Yemeni", "Levantine", "Iraqi", "Kurdish", "Israeli", "Jordanian", "Lebanese", "Mizrahi Jewish", 
+    "Palestinian", "Syrian", "Syrian Jewish", "Assyrian", "Caucasian", "Armenian", "Azerbaijani", 
+    "Circassian", "Georgian", "Iranian", "Caspian", "Turkish", "Pontic Greek"]},
+
+    {"mainType": "Central European cuisine",
+    "subType": ["Austrian", "Viennese", "Czech", "Hungarian", "Liechtensteiner"]},
+
+    {"mainType": "German cuisine",
+    "subType": ["Baden", "Bavarian", "Brandenburg", "Franconian", "Hamburg", "Hessian", "Lower Saxon", 
+    "Mecklenburg", "Palatine", "Pomeranian", "Rhenish-Hessian", "Saxon", "Schleswig-Holstein", "Silesian", 
+    "Swabian"]},
+
+    {"mainType": "Eastern European cuisine",
+    "subType": ["Belarusian", "Bulgarian", "Moldovan", "Romani", "Romanian", "Russian", "Bashkir", 
+    "Chechen", "Chukchi", "Tatar", "Mordovian", "Yamal", "Ukrainian", "Crimean Tatar"]},
+
+    {"mainType": "Northern European cuisine",
+    "subType": ["Baltic", "Estonian", "Latvian", "Lithuanian", "Livonian", 
+    "Islands of the North Atlantic (IONA)", "British", "Channel Islands", "English", "Cornish", 
+    "Devonian", "Dorset", "Northern Irish", "Scottish", "Welsh", "Carmarthenshire", "Ceredigion", 
+    "Gower", "Monmouthshire", "Pembrokeshire", "Irish", "Nordic", "Danish", "Faroese", "New Nordic", 
+    "Greenlandic", "Finnish", "Icelandic", "Norwegian", "Sami", "Swedish"]},
+
+    {"mainType": "Southern European cuisine",
+    "subType": ["Cypriot", "Balkan", "Albanian", "Aromanian", "Bosnian","Croatian", "Greek", 
+    "Macedonian (Greek)", "Cretan", "Ionian Islands", "Epirotic", "Kosovan", "Macedonian", "Montenegrin", 
+    "Serbian", "Gibraltarian", "Italian", "Abruzzese and Molisan", "Arbëreshë", "Basilicatan (Lucanian)", 
+    "Lazian or Roman", "Ligurian", "Lombard", "Mantuan", "Neapolitan", "Pugliese", "Sardinian", "Sicilian", 
+    "Tuscan", "Venetian", "Maltese", "Portuguese", "Sammarinese", "Spanish", "Andalusian", "Asturian", 
+    "Aragonese", "Balearic", "Basque", "Canarian", "Cantabrian", "Castilian-Leonese", "Castilian-Manchego", 
+    "Catalan", "Andorran", "Extremaduran", "Galician", "Leonese", "Madrid", "Minorcan", "Valencian", 
+    "Turkish"]},
+
+    {"mainType": "Western European cuisine",
+    "subType": ["Belgian", "Dutch", "French", "Basque", "Corsican", "Haute", "Lyonnaise", "Nouvelle", 
+    "Luxembourgian", "Monégasque", "Occitan"]},
+
+    {"mainType": "Oceanic: Australasian cuisine",
+    "subType": ["Australian", "Tasmanian", "Christmas Island", "New Zealand"]},
+
+    {"mainType": "Oceanic: Melanesian cuisine",
+    "subType": ["Fijian", "Papua New Guinean", "Solomon Islands", "Vanuatuan"]},
+
+    {"mainType": "Oceanic: Micronesian cuisine",
+    "subType": ["Guamanian", "Mariana Islands", "Marshallese", "Nauruan", "Palauan"]},
+
+    {"mainType": "Oceanic: Polynesian cuisine",
+    "subType": ["Hawaiian", "Niuean", "Pascuense (Easter Island)", "Pitcairn Islands", "Samoan", "Tongan", 
+    "Tuvaluan", "Wallis and Futuna"]}
+]
