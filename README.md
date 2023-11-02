@@ -17,6 +17,6 @@ App that randomly selects a cuisine from a list when you're not sure what to eat
 
 [x] - Test run
 
-[ ] - Make responsive
+[X] - Make responsive
 
 [ ] - Final Touches on CSS and HTML

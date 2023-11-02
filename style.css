@@ -20,12 +20,9 @@ body {
 #wrapper {
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 80vw;
     height: 500px;
-    border: 1px solid black;
-    border-radius: 50%;
     background-color: white;
-    justify-content: space-around;
     align-items: center;
     margin: 10px 10px 0 10px;
     overflow: hidden;
@@ -44,8 +41,7 @@ h1 {
     font-weight: 600;
     text-wrap: balance;
     text-align: center;
-    position: absolute;
-    top: 125px;
+    margin-top: 150px;
 }
 #msg {
     font-size: var(--nm);
@@ -64,8 +60,9 @@ h1 {
     text-wrap: balance;
     text-align: center;
     color: var(--muted);
+    /* margin-top: 25px; */
     position: absolute;
-    top: 260px;
+    top: 275px;
 }
 #button{
     margin-block: 5px;
@@ -95,15 +92,26 @@ h1 {
     display: none;
 }
 .hide {
-    color: white !important;
+    visibility: hidden;
 }
 .start {
     /* margin-top: 25% !important; */
     position: absolute;
-    top: 40% !important;
+    top: 20px !important;
 }
 .start-min{
     position: absolute;
     top: 300px !important;
     height: 20px !important;
+}
+
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 450px) {
+    #result {
+        margin-top: 150px;
+    }
 }

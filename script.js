@@ -23,7 +23,7 @@ button.addEventListener('click', function feedMe() {
     const sub = cuisine[i].subType
 
 
-    
+    msg.classList.remove('hide')
     title.innerText = "Try eating something from..."
     title.style.fontSize = "25px"
     title.style.color = "black"
@@ -37,7 +37,8 @@ button.addEventListener('click', function feedMe() {
     credit.classList.remove('start-min')
     title.classList.remove('none')
     msg.classList.remove('none')
-    msg.addEventListener('click', () =>{specific.classList.remove('hide')})
+    msg.addEventListener('click', () =>{specific.classList.remove('hide'); msg.classList.add('hide')})
     button.addEventListener('click', () => {specific.classList.add('hide')})
+
 })
 
