@@ -1,11 +1,11 @@
 //import JSON file
 import cuisine from './cuisine.json' assert { type: 'json' }
 //define all HTML elements
-const button = document.getElementById('button')
-const title = document.getElementById('title')
-const result = document.getElementById('result')
-const msg = document.getElementById('msg')
-const specific = document.getElementById('specific')
+const button = document.getElementsByClassName('button')[0]
+const title = document.getElementsByClassName('title')[0]
+const result = document.getElementsByClassName('result')[0]
+const msg = document.getElementsByClassName('msg')[0]
+const specific = document.getElementsByClassName('specific')[0]
 const credit = document.getElementsByClassName('footer')[0]
 
 //hide some things from the beginning
@@ -24,7 +24,7 @@ button.addEventListener('click', function feedMe() {
 
 
     msg.classList.remove('hide')
-    title.innerText = "Try eating something from..."
+    title.innerText = "Try something..."
     title.style.fontSize = "25px"
     title.style.color = "black"
     result.innerText = main
@@ -33,8 +33,6 @@ button.addEventListener('click', function feedMe() {
 
         button.value = "Try Again?"
     result.classList.remove('start')
-    button.classList.remove('start-min')
-    credit.classList.remove('start-min')
     title.classList.remove('none')
     msg.classList.remove('none')
     msg.addEventListener('click', () =>{specific.classList.remove('hide'); msg.classList.add('hide')})
